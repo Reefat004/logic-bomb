@@ -2,6 +2,8 @@
 
 Welcome to **Logic Bomb**, a captivating landing page designed as part of a programming competition segment for Sunnydale Math X Tech club.
 
+![Logic Bomb Interface](images/hacker.png)
+
 ## 🚀 Project Overview
 
 Logic Bomb serves as the central interface for an exhilarating cryptographic challenge. Participants assume the role of elite cryptologists, racing against the clock to prevent a catastrophic nuclear attack orchestrated by terrorists. The interface allows users to input their agent number and cracked password to save the world from impending doom.
