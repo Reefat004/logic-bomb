@@ -18,10 +18,11 @@ Logic Bomb serves as the central interface for an exhilarating cryptographic cha
 - **PHP**: Server-side scripting for processing input and managing data.
 - **HTML**: Structure and content of the landing page.
 - **CSS**: Styling for a polished and visually appealing design.
-- **Bootstrap**: Framework used to complement css and for easy styling and structuring of html code.
+- **Bootstrap**: Responsive design framework for creating a mobile-friendly interface.
 - **JavaScript**: Client-side scripting for interactive elements and form validation.
 - **jQuery**: Simplified DOM manipulation and event handling.
 - **GSAP (GreenSock Animation Platform)**: High-performance animations for a smooth and engaging user experience.
+- **particles.js**: Library for creating animated particle backgrounds.
 
 
 ## 🎯 Segment Description
