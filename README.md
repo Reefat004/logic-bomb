@@ -2,7 +2,7 @@
 
 Welcome to **Logic Bomb**, a captivating landing page designed as part of a programming competition segment for Sunnydale Math X Tech club.
 
-![Logic Bomb Interface](images/hacker.png)
+![Logic Bomb Interface](assets/Logic_Bomb_Demo.gif)
 
 ## 🚀 Project Overview
 
